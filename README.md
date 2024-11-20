@@ -46,10 +46,10 @@
 <br>
 <div align=center>
   <a href="#" title="longnhat">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnhat&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhLongNhat&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="longnhat">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=longnhat&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HuynhLongNhat&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
@@ -75,5 +75,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/longnhat-quotes.svg" width="846" height="150" alt="longnhat-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/longnhat-quotes.svg" width="846" height="150" alt="longnhatdev" />
 </a>
